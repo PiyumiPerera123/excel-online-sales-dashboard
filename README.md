@@ -31,7 +31,7 @@ To analyze online sales performance and identify key trends in revenue, product 
 ##  Dashboard Preview
 
 
-  ![Dashboard Screenshot](usa_dashboard.png)
+  ![Dashboard Screenshot](dashboard.png)
 
 
 ---
